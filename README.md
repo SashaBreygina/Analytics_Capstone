@@ -11,4 +11,4 @@
 
 ## Midterm Presentation
 [Powerpoint Link](https://docs.google.com/presentation/d/17IRBGnZgHXnzWFOf6eXsvwQGh9V8ed01ugm0uSnRum4/edit?slide=id.g39dfe7ae041_0_16#slide=id.g39dfe7ae041_0_16)
-[Video Link](https://github.com/SashaBreygina/Analytics_Capstone/blob/main/Mid-Semester%20Presentation.mp4)
+[Video Link](https://drive.google.com/file/d/1TyT2YNA5CZB52m4WsrVeKor4Z7-m39bE/view?usp=drive_link)
