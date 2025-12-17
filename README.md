@@ -14,5 +14,5 @@
 [Video Link](https://drive.google.com/file/d/1TyT2YNA5CZB52m4WsrVeKor4Z7-m39bE/view?usp=drive_link)
 
 ## Final Presentation
-[Poster Link](https://github.com/SashaBreygina/Analytics_Capstone/blob/main/Capstone_Final_Poster.pptx)
+[Poster Link]([https://github.com/SashaBreygina/Analytics_Capstone/blob/main/Capstone_Final_Poster.pptx](https://docs.google.com/presentation/d/1SIsb1KRXRS7xnY1B2LW2ng93arRQnGxX/edit?slide=id.p1#slide=id.p1))
 [Video Link](https://drive.google.com/file/d/1Bi2pWOcMmHBDOGdsquNqFgehSJY_Ac7W/view?usp=sharing)
